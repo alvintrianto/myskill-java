@@ -18,5 +18,6 @@ public class fungsi {
 
         System.out.println("Hasil tambah: " + hasilTambah);
         System.out.println("Hasil kuadrat: " + hasilKuadrat);
+        System.out.println("Hasil kuadrat: " + hasilKuadrat);
     }
 }
