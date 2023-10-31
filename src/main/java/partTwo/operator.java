@@ -16,6 +16,8 @@ public class operator {
         int hasilPenjumlahan = x + y;
 
         System.out.println("Hasil Penjumlahan " + hasilPenjumlahan) ;
+        System.out.println("Hasil Penjumlahan " + hasilPenjumlahan) ;
+        System.out.println( x1 + y1 );
         System.out.println( x1 + y1 );
 
 
