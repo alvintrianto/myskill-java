@@ -5,6 +5,6 @@ public class pengulangan {
         for(int i=0; i < 10; i++){
             System.out.println("Perulangan ke- "+ i);
         }
-                    System.out.println("Selesai");
+        System.out.println("Belum Selesai");
     }
 }
